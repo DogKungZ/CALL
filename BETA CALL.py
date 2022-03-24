@@ -5,7 +5,7 @@ os.system('clear')
 
 def home():
     print('''
-\x1b[92m   _____ __  ________\x1b[00m                  \x1b[96m[ OK.RU CALL - MONIFIRE ]\x1b[00m
+\x1b[92m   _____ __  ________\x1b[00m                  \x1b[96m[ RUOK LAK HUA KOMKOM CALL - DogKungZ ]\x1b[00m
 \x1b[92m  / ___//  |/  / ___/\x1b[00m  |
 \x1b[92m  \__ \/ /|_/ /\__ \ \x1b[00m  | › \x1b[92mFacebook\x1b[00m : \x1b[94mกิต'ติ'กร เฉย'ไธ'สง\x1b[00m
 \x1b[92m ___/ / /  / /___/ / \x1b[00m  | › \x1b[92mGithub\x1b[00m : \x1b[94mhttps://github.com/DogKungZ\x1b[00m
